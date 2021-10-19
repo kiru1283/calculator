@@ -1,7 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
-a pocket calculator.
+a pocket calculator.   
+
 [![Build Status](https://dev.azure.com/az400kiru0682/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_apis/build/status/kiru1283.calculator?branchName=master)](https://dev.azure.com/az400kiru0682/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_build/latest?definitionId=7&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
